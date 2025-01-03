@@ -1,6 +1,6 @@
 # DIO - Resumo
 
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
+Este repositório reúne o resumo do conhecimento adquirido sobre Microsoft Azure durante os estudos na DIO.
 
 ## Por que a AZ-900 é importante?
 
