@@ -1,4 +1,4 @@
-# DIO - Resumo das Lições Aprendidas
+# DIO - Resumo
 
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO.
 
