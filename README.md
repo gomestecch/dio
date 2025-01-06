@@ -32,4 +32,19 @@ A certificação AZ-900 é uma das melhores formas de iniciar no universo da com
 
 ---
 
-Este é um breve resumo para consulta. Explore mais sobre o Azure e suas possibilidades!
+# **Benefícios da Computação em Nuvem**
+
+## 1. Confiabilidade
+- Garante que os serviços estejam sempre disponíveis por meio de alta disponibilidade e recuperação de desastres.
+
+## 2. Previsibilidade
+- Fornece contratos de SLA que definem níveis de desempenho e disponibilidade.
+
+## 3. Segurança
+- Oferece proteção avançada com criptografia de dados, gerenciamento de identidades (Azure Active Directory) e conformidade com normas globais.
+
+## 4. Governança
+- Permite aplicar políticas e controles para garantir o uso consistente e conforme dos recursos.
+
+## 5. Gerenciabilidade
+- Oferece ferramentas para monitorar e gerenciar recursos, como Azure Monitor e Azure Resource Manager.
